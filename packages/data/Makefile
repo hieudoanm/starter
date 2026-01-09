@@ -1,0 +1,10 @@
+.PHONY: build check format
+
+build:
+	uv run main.py
+
+check:
+	uv run ruff check .
+
+format:
+	uv run ruff format .
