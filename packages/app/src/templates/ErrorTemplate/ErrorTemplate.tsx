@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { FC, useEffect, useState } from 'react';
 
-const ErrorTemplate: FC<{
+export const ErrorTemplate: FC<{
   error: { code: number; message: string };
   messages: string[];
 }> = ({
@@ -72,4 +72,4 @@ const ErrorTemplate: FC<{
   );
 };
 
-export default ErrorTemplate;
+ErrorTemplate.displayName = 'ErrorTemplate';
