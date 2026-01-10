@@ -9,7 +9,7 @@
 
 [1m[38;2;173;127;168m▲ Next.js 16.1.1[39m[22m (Turbopack)
 
-[?25l[37m[1m [22m[39m Running TypeScript  [36m.[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m..[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m...[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m.[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m..[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m...[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m.[39m[2K[1G[?25h[?25l[37m[1m [22m[39m Finished TypeScript in 1229.2ms  [36m.[39m[2K[1G[?25h[37m[1m [22m[39m Finished TypeScript in 1229.2ms    [32m[1m✓[22m[39m Finished TypeScript in 1229.2ms 
+[?25l[37m[1m [22m[39m Running TypeScript  [36m.[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m..[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m...[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m.[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m..[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m...[39m[2K[1G[?25h[?25l[37m[1m [22m[39m Finished TypeScript in 1191.0ms  [36m.[39m[2K[1G[?25h[37m[1m [22m[39m Finished TypeScript in 1191.0ms    [32m[1m✓[22m[39m Finished TypeScript in 1191.0ms 
 [37m[1m [22m[39m Creating an optimized production build ...
 /*! 🌼 daisyUI 5.5.14 */
 Found 1 warning while optimizing generated CSS:
@@ -22,15 +22,15 @@ Found 1 warning while optimizing generated CSS:
 [2m│     syntax: "<percentage>";[22m
 [2m│     inherits: true;[22m
 
-[32m[1m✓[22m[39m Compiled successfully in 1893.5ms
-[?25l[37m[1m [22m[39m Collecting page data using 7 workers  [36m.[39m[2K[1G[37m[1m [22m[39m Collecting page data using 7 workers  [36m..[39m[2K[1G[?25h[37m[1m [22m[39m Collecting page data using 7 workers in 303.9ms    [32m[1m✓[22m[39m Collecting page data using 7 workers in 303.9ms 
-[?25l[37m[1m [22m[39m Generating static pages using 7 workers (0/3)  [36m[    ][39m[2K[1G[?25h[32m[1m✓[22m[39m Generating static pages using 7 workers (3/3) in 178.5ms
+[32m[1m✓[22m[39m Compiled successfully in 2.4s
+[?25l[37m[1m [22m[39m Collecting page data using 7 workers  [36m.[39m[2K[1G[37m[1m [22m[39m Collecting page data using 7 workers  [36m..[39m[2K[1G[?25h[37m[1m [22m[39m Collecting page data using 7 workers in 359.2ms    [32m[1m✓[22m[39m Collecting page data using 7 workers in 359.2ms 
+[?25l[37m[1m [22m[39m Generating static pages using 7 workers (0/3)  [36m[    ][39m[2K[1G[?25h[32m[1m✓[22m[39m Generating static pages using 7 workers (3/3) in 172.0ms
 [?25l[37m[1m [22m[39m Finalizing page optimization  [36m.[39m[2K[1G[?25h[33m[1m⚠[22m[39m [33mStatically exporting a Next.js application via `next export` disables API routes and middleware.[39m
 [33mThis command is meant for static-only hosts, and is [1mnot necessary to make your application static.[22m[39m
 [33mPages in your application without server-side data dependencies will be automatically statically exported by `next build`, including pages powered by `getStaticProps`.[39m
 [33mLearn more: https://nextjs.org/docs/messages/api-routes-static-export[39m
-[?25l [36m.[39m [?25l[37m[1m [22m[39m Exporting using 7 workers (0/3)  [36m[    ][39m[2K[1G [36m..[39m [2K[1G[37m[1m [22m[39m Exporting using 7 workers (0/3)  [36m[=   ][39m[2K[1G[?25h[2K[1G[?25h[32m[1m✓[22m[39m Exporting using 7 workers (3/3) in 201.6ms
-[?25l [36m.[39m [2K[1G [36m..[39m [2K[1G[?25h[37m[1m [22m[39m Finalizing page optimization in 529.4ms    [32m[1m✓[22m[39m Finalizing page optimization in 529.4ms 
+[?25l [36m.[39m [?25l[37m[1m [22m[39m Exporting using 7 workers (0/3)  [36m[    ][39m[2K[1G [36m..[39m [2K[1G[37m[1m [22m[39m Exporting using 7 workers (0/3)  [36m[=   ][39m[2K[1G[?25h[2K[1G[?25h[32m[1m✓[22m[39m Exporting using 7 workers (3/3) in 201.8ms
+[?25l [36m.[39m [2K[1G [36m..[39m [2K[1G[?25h[37m[1m [22m[39m Finalizing page optimization in 525.6ms    [32m[1m✓[22m[39m Finalizing page optimization in 525.6ms 
 
 [4mRoute (pages)[24m
 ┌ ○ /

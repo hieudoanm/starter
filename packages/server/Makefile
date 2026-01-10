@@ -1,7 +1,7 @@
 .PHONY: dev check format
 
 dev:
-	uv run main.py
+	uv run uvicorn main:app --reload
 
 check:
 	uv run ruff check .
