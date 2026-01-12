@@ -1,4 +1,4 @@
-import { devstack } from '@starter/data/devstack';
+import { devstack } from '@start/data/devstack';
 import { NextPage } from 'next';
 import Link from 'next/link';
 

@@ -1,17 +1,17 @@
 {
-  "name": "@starter/apps",
+  "name": "@start/apps",
   "version": "0.0.1",
-  "description": "starter",
+  "description": "start",
   "keywords": [
-    "starter"
+    "start"
   ],
-  "homepage": "https://hieudoanm.github.io/starter",
+  "homepage": "https://hieudoanm.github.io/start",
   "bugs": {
-    "url": "https://github.com/hieudoanm/starter/issues"
+    "url": "https://github.com/hieudoanm/start/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hieudoanm/starter.git"
+    "url": "git+ssh://git@github.com/hieudoanm/start.git"
   },
   "license": "GPL-3.0",
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",

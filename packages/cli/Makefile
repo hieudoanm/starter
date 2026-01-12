@@ -1,4 +1,4 @@
-APP := starter
+APP := start
 PKG := ./...
 
 .PHONY: run build test clean
